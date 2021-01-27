@@ -5,7 +5,7 @@
 Machine Learning: projecto final individual "Bank Marketing Campaign Dataset"***
 
 Trabalho realizado por:
-Jorge Gomes      ( jorge_gomes98@hotmail.com )   
+Jorge Gomes      ( jorge_gomes98@hotmail.com / https://www.linkedin.com/in/jorge-manuel-lopes-gomes/ )   
 
 Formador:
 Filipa Rodrigues ( https://www.linkedin.com/in/filipacrodrigues/ )
