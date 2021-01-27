@@ -1,8 +1,8 @@
 
 #---------------------------------------------------
 
-Pós Graduação em Data Science
-Machine Learning: projecto final individual "Bank Marketing Campaign Dataset"
+***Pós Graduação em Data Science
+Machine Learning: projecto final individual "Bank Marketing Campaign Dataset"***
 
 Trabalho realizado por:
 Jorge Gomes      ( jorge_gomes98@hotmail.com )   
@@ -51,7 +51,7 @@ Com base nesta informação, conseguem ajudar a equipa de marketing criando um m
     y: has the client subscribed a term deposit? 
     
     
- ** Perguntas:**
+ **Perguntas:**
 
     1. Quantas features estão disponíveis? Quantos clientes?
     2. Quantos clientes têm no dataset que efectivamente aderiram ao depósito a prazo? E quantos não o fizeram?
