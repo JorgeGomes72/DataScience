@@ -28,7 +28,7 @@ Com base nesta informação, conseguem ajudar a equipa de marketing criando um m
 
 
 
-**O dataset contêm informação sobre todos os clientes que foram alvo da campanha:**
+**O dataset contêm informação sobre todos os clientes que foram alvo da campanha: bank_marketing_campaign.csv**
 
     1 - age 
     2 - job : type of job 
